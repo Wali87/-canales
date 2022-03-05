@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 ,telefeHD
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-720/playlist.m3u8
+
+#EXTINF:-1 ,telefe
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+
+#EXTINF:-1 ,el trece HD
+http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
+
+#EXTINF:-1 ,América
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+
+#EXTINF:-1 ,Canal 9
+http://72.46.226.61/live01/canal91/playlist.m3u8
+
+#EXTINF:-1 ,HBO
+http://latino-webtv.ml:86/385/playlist.m3u8
+
+#EXTINF:-1 ,ESPN
+http://latino-webtv.ml/7878/516.m3u8
